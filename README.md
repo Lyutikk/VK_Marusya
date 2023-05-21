@@ -2,7 +2,7 @@
 
 <h1 align="center">Решение команды GrowAi на хакатоне СКФО Цифровой прорыв: <i>"Маруся не отвечает на реплики из телевизора"</i></h1>
 
-  <p align="center"><img src="https://grow-ai-marusya-vk-digital.hf.space/media/d5c5f03764cfe8f85490c4edca900b35975b1bd5f4971f4e117e81ce.jpeg" width="800" height="600"></p>
+  <p align="center"><img src="https://github.com/Lyutikk/VK_Marusya/blob/master/marusya.jpg" width="400" height="300"></p>
   <h1 align="center"><a href="https://github.com/Lyutikk/VK_Marusya/blob/master/VK_Marusya_GrowAi.pdf">Презентация выступления</a></h1>
   
   <h2>Краткое описание кейса</h2>
